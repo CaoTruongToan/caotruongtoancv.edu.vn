@@ -1,8 +1,15 @@
-# Tên Dự Án 🚀
+# Thông tin 🚀
 
-Mô tả ngắn về dự án.
+- Họ và tên: Cao Trường Toàn
+- MSSV: 2011063795
+- Lớp: 20DTHA6
+- Năm học: 2020 - 2024
+- Khoa Công Nghệ Thông Tin
+- Chuyên ngành: CNPM
 
-## Bắt Đầu 🎉
+
+
+# Bắt Đầu 🎉
 
 Hướng dẫn này sẽ giúp bạn bắt đầu với dự án này. Để có một bản sao của dự án trên máy tính của bạn, hãy làm theo các bước sau.
 
