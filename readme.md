@@ -1,14 +1,23 @@
-# Tên Dự Án 🚀
+# Công Cụ Và Môi Trường Phát Triển Phần Mềm 🚀
 
-Mô tả ngắn về dự án.
+## Giới Thiệu 
+- **Họ và Tên:** Cao Trường Toàn 
+- **MSSV:** 2011063795 
+- **Lớp:** 20DTHA6
+
+## Giới Thiệu Về GitHub và Các Công Dụng
+
+GitHub là một dịch vụ dành cho các dự án phát triển phần mềm sử dụng hệ thống kiểm soát phiên bản Git. Dưới đây là một số thông tin cơ bản về GitHub và các công dụng của nó:
+
+- GitHub cho phép lưu trữ mã nguồn, quản lý và theo dõi sự phát triển của mã nguồn thông qua các phiên bản.
+- Cung cấp các công cụ hỗ trợ cho việc quản lý dự án, bao gồm quản lý nhánh, theo dõi vấn đề (issues), và tạo yêu cầu kéo (pull requests).
+- Cho phép người dùng làm việc cùng nhau trên các dự án thông qua các tính năng như nhánh (branches), yêu cầu kéo (pull requests), và nhận xét mã (code reviews).
 
 ## Bắt Đầu 🎉
 
-Hướng dẫn này sẽ giúp bạn bắt đầu với dự án này. Để có một bản sao của dự án trên máy tính của bạn, hãy làm theo các bước sau.
-
 ### Yêu Cầu ⚙️
 
-Cài đặt những gì cần thiết để chạy dự án này:
+Đảm bảo bạn đã cài đặt những gì cần thiết để chạy dự án này:
 
 - Yêu cầu 1
 - Yêu cầu 2
@@ -41,18 +50,16 @@ Nếu bạn muốn đóng góp vào dự án này, bạn có thể làm theo cá
 
 ## Giấy Phép 📝
 
-Mô tả giấy phép dự án. Ví dụ:
-
 Dự án này được phân phối dưới giấy phép MIT. Xem [LICENSE](LICENSE) để biết thêm chi tiết.
 
 ## Liên Hệ 📧
 
-- Tên: [Tên của bạn]
-- Email: [Địa chỉ email của bạn]
+- **Tên:** [Tên của bạn]
+- **Email:** [Địa chỉ email của bạn]
 
 Nếu bạn có bất kỳ câu hỏi hoặc góp ý nào, vui lòng liên hệ với chúng tôi!
 
-## Sponsors
+## Nhà Tài Trợ
 
 Hiện tại, dự án được hỗ trợ bởi các nhà tài trợ sau:
 - [Tên nhà tài trợ 1](https://example.com)
