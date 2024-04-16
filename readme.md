@@ -1,9 +1,9 @@
 # Công Cụ Và Môi Trường Phát Triển Phần Mềm 🚀
 
 ## Giới Thiệu 
-- **Họ và Tên:** Cao Trường Toàn 
-- **MSSV:** 2011063795 
-- **Lớp:** 20DTHA6
+- **Họ và Tên:** Ngô Văn Gia Phúc
+- **MSSV:** 1911060215 
+- **Lớp:** 19DTHB3
 
 ## Giới Thiệu Về GitHub và Các Công Dụng
 
