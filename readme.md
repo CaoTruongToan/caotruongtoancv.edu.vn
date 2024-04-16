@@ -2,8 +2,8 @@
 
 ## Giới Thiệu 
 - **Họ và Tên:** Nguyễn Huỳnh Phi Vũ
-- **MSSV:** 2011063795 
-- **Lớp:** 20DTHA6
+- **MSSV:** 2011068937 
+- **Lớp:** 20DTHC4
 
 ## Giới Thiệu Về GitHub và Các Công Dụng
 
