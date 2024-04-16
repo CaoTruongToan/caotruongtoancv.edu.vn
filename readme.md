@@ -1,7 +1,7 @@
 # Công Cụ Và Môi Trường Phát Triển Phần Mềm 🚀
 
 ## Giới Thiệu 
-- **Họ và Tên:** Cao Trường Toàn 
+- **Họ và Tên:** Nguyễn Huỳnh Phi Vũ
 - **MSSV:** 2011063795 
 - **Lớp:** 20DTHA6
 
